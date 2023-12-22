@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Naufal Kadhafi</h1>
 <h3 align="center">I'm a Android Developer and UI/UX Designer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Flutter, Kotlin**
+- 🌱 I’m currently learning **Java, Flutter, Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1rS0fQjC270p8bYFY9lqSkXI-tiHLXFIs/view?usp=drive_link](https://drive.google.com/file/d/1rS0fQjC270p8bYFY9lqSkXI-tiHLXFIs/view?usp=drive_link)
 
