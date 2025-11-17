@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Naufal Kadhafi</h1>
-<h3 align="center">I'm a Android Developer and UI/UX Designer</h3>
+<h1 align="center">Haii, Saya Naufal Kadhafi</h1>
+<h3 align="center">I'm an Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jizzyyy&label=Profile%20views&color=0e75b6&style=flat" alt="jizzyyy" /> </p>
 
